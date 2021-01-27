@@ -1,4 +1,10 @@
-### Hi there 👋
+### Formado em Análise e desenvolvimento de sistemas - Senai em 2020.
+
+### Estudando Sistemas de Informação - Univille
+
+### Estudando por conta linguagens front-end: HTML, CSS e Javascript 
+### Regularmente resolvendo alguns exercícios do URI para manter a lógica ativa
+### 👋
 
 <!--
 **joaoschmalz/joaoschmalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
