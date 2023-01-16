@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at [Neomind Solutions](https://www.neomind.com.br/)
 - 🎓 I',m studying FullStack Java Developer at [EBAC](https://ebaconline.com.br/full-stack-java)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoschmalz&layout=compact&theme=transparent)](https://github.com/joaoschmalz/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaoschmalz&layout=compact&theme=transparent)](https://github.com/joaoschmalz/github-readme-stats)
 
 
 ## 🛠 &nbsp;Tech Stack
