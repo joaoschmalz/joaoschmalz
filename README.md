@@ -1,8 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João M. Schmalz</h1>
 <h3 align="center">A passionate developer from Brazil.</h3>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschmalz&color=blue" alt="Profile views" /> </p>
 
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschmalz&color=blue" alt="Profile views" /> </p>
+-->
 - 🔥 Java Developer              
 - 🔭 I’m currently working at [Neomind Solutions](https://www.neomind.com.br/)
 - 🎓 I',m studying FullStack Java Developer at [EBAC](https://ebaconline.com.br/full-stack-java)
