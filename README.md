@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschmalz&color=blue" alt="Profile views" /> </p>
 -->
 - 🔥 Java Developer              
-- 🔭 I’m currently working at [Sizebay]((https://sizebay.com/en/))
+- 🔭 I’m currently working at [Sizebay](https://sizebay.com/en/)
 - 🎓 I',m studying FullStack Java Developer at [EBAC](https://ebaconline.com.br/full-stack-java)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaoschmalz&layout=compact&theme=transparent)](https://github.com/joaoschmalz/github-readme-stats)
