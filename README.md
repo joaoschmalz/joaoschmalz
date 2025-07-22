@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João M. Schmalz</h1>
-<h3 align="center">A passionate developer from Brazil.</h3>
+<h3 align="center">A passionate developer from Brazil nased in Dublin, Ireland.</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschmalz&color=blue" alt="Profile views" /> </p>
 -->
 - 🔥 Java Developer              
-- 🔭 I’m currently working at [Sizebay](https://sizebay.com/en/)
-- 🎓 I',m studying FullStack Java Developer at [EBAC](https://ebaconline.com.br/full-stack-java)
+<!-- 🔭 I’m currently working at [Sizebay](https://sizebay.com/en/)
+- 🎓 I',m studying FullStack Java Developer at [EBAC](https://ebaconline.com.br/full-stack-java) -->
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaoschmalz&layout=compact&theme=transparent)](https://github.com/joaoschmalz/github-readme-stats)
 
