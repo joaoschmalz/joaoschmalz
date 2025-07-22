@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Schmalz</h1>
-<h3 align="center">A passionate developer from Brazil nased in Dublin, Ireland.</h3>
+<h3 align="center">A passionate developer from Brazil based in Dublin, Ireland.</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoschmalz&color=blue" alt="Profile views" /> </p>
